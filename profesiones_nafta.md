@@ -5,7 +5,7 @@
 - "Accountant"
 - "Architect"
 - "Computer Systems Analyst"
-"Disaster Relief Insurance Claims Adjuster (claims Adjuster employed by an insurance company located in the territory of a Party, or an independent claims - adjuster)"
+- "Disaster Relief Insurance Claims Adjuster (claims Adjuster employed by an insurance company located in the territory of a Party, or an independent claims - adjuster)"
 - "Economist"
 - "Engineer"
 - "Forester"
